@@ -1,5 +1,5 @@
 ```
-Network Cowboy and Mercenary Janitor.  I do filty, nerdy things.
+Network Cowboy and Mercenary Janitor.  I do filthy, nerdy things.
 
 I like to break stuff, solve interesting problems, and teach.  I
 hack on a wide array of things.  I'm especially interested in
