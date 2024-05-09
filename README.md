@@ -3,7 +3,7 @@ Network Cowboy and Mercenary Janitor.  I do filthy, nerdy things.
 
 I like to break stuff, solve interesting problems, and teach.  I
 hack on a wide array of things.  I'm especially interested in
-infosec, free software, and decentralized systems/communities.  
+infosec, devoops, FLOSS, and decentralized systems/communities.  
 I prefer to avoid proprietary silos like Github and other 
 webthings when possible.
 
