@@ -5,8 +5,7 @@ I like to break stuff, solve interesting problems, and teach.  I
 hack on a wide array of things.  I'm especially interested in
 infosec, free software, and decentralized systems/communities.  
 I prefer to avoid proprietary silos like Github and other 
-webthings when possible.  Reach out via email if you would like
-to collaborate or if you know a good joke:  cmhobbs@acm.org
+webthings when possible.
 
 :(){ :|:& };:
 
