@@ -1,3 +1,5 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmhobbs)](https://github.com/anuraghazra/github-readme-stats)
+
 ```
 Network Cowboy and Mercenary Janitor.  I do filthy, nerdy things.
 
