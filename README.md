@@ -1,7 +1,6 @@
-Hello :wave: I'm **Hobbs**; Network Cowboy and Mercenary Janitor.
+Hello :wave: I'm **Hobbs**; Network Cowboy and Mercenary Janitor for hire: [ascia.tech](https://ascia.tech).
 
-I like to break stuff, solve interesting problems, and teach.
-I hack on a wide array of things.  I'm especially interested in infosec, devoops, FLOSS, and decentralized systems/communities.  All of the standard links are in my profile sidebar.
+I like to break stuff, solve interesting problems, and teach.  I hack on a wide array of things.  I'm especially interested in infosec, devoops, FLOSS, and decentralized systems/communities.  All of the standard links are in my profile sidebar.
 
 
 **Other git forge accounts:**
