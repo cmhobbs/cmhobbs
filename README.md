@@ -10,9 +10,9 @@ I hack on a wide array of things.  I'm especially interested in infosec, devoops
 - WIP mirror of my repos to the [SDF Git Society](https://git.sdf.org/hobbsc/)
 
 **My last three blog posts:**
+- [Proxmox Latency Fixes](https://ascia.tech/blog/proxmox-latency-fixes/)
 - [Crystal DevContainer Template](https://ascia.tech/blog/crystal-devcontainer-template/)
 - [Using scrcpy with Bazzite](https://ascia.tech/blog/using-scrcpy-with-bazzite/)
-- [Running Sunshine on Bluefin](https://ascia.tech/blog/running-sunshine-on-bluefin/)
 
 **Some neato gists:**
 - [porta pro easyeffects](https://gist.github.com/cmhobbs/28f7a858017c1b00f290de582c206bd4)
