@@ -9,9 +9,9 @@ I like to break stuff, solve interesting problems, and teach.  I hack on a wide 
 - WIP mirror of my repos to the [SDF Git Society](https://git.sdf.org/hobbsc/)
 
 **My last three blog posts:**
+- [Building an LKE Cluster with OpenTofu](https://ascia.tech/blog/lke-with-opentofu/)
 - [quassel-core and Basic Client Setup](https://ascia.tech/blog/quassel-core-and-client-setup/)
 - [Exporting a VM from ESXi and Getting it into Proxmox](https://ascia.tech/blog/exporting-a-vm-from-esxi-and-getting-it-into-proxmox/)
-- [Proxmox Latency Fixes](https://ascia.tech/blog/proxmox-latency-fixes/)
 
 **Some neato gists:**
 - [porta pro easyeffects](https://gist.github.com/cmhobbs/28f7a858017c1b00f290de582c206bd4)
