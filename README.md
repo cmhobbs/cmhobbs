@@ -8,9 +8,9 @@ I like to break stuff, solve interesting problems, and teach.  I hack on a wide 
 - My old [Open Architects account](https://github.com/oa-hobbs)
 
 **My last three blog posts:**
+- [Battling Meraki VPN Issues on Bazzite after Updates](https://ascia.tech/blog/battling-meraki-vpn-issues-on-bazzite-after-updates/)
 - [Masking Flatpaks](https://ascia.tech/blog/masking-flatpaks/)
 - [Packer and Ubuntu Cloud Init](https://ascia.tech/blog/packer-and-ubuntu-cloud-init/)
-- [Building an LKE Cluster with OpenTofu](https://ascia.tech/blog/lke-with-opentofu/)
 
 **Some neato gists:**
 - [Porta Pro EasyEffects](https://gist.github.com/cmhobbs/28f7a858017c1b00f290de582c206bd4)
