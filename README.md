@@ -8,9 +8,9 @@ I like to break stuff, solve interesting problems, and teach.  I hack on a wide 
 - My old [Open Architects account](https://github.com/oa-hobbs)
 
 **My last three blog posts:**
+- [A Mercenary Janitor's Learning Plan](https://ascia.tech/blog/mercenary-learning-plan/)
+- [Standing and Sitting](https://ascia.tech/blog/standing-and-sitting/)
 - [My Current AI and LLM Usage](https://ascia.tech/blog/my-current-ai-and-llm-usage/)
-- [Self Hosted Service Layout and Media Consumption in Early 2026](https://ascia.tech/blog/self-hosted-service-layout-and-media-consumption/)
-- [Battling Meraki VPN Issues on Bazzite after Updates](https://ascia.tech/blog/battling-meraki-vpn-issues-on-bazzite-after-updates/)
 
 **Some neato gists:**
 - [Porta Pro EasyEffects](https://gist.github.com/cmhobbs/28f7a858017c1b00f290de582c206bd4)
