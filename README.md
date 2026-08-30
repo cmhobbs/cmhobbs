@@ -6,9 +6,9 @@ I like to break stuff, solve interesting problems, and teach.  I hack on a wide 
 Historical git forge accounts associated with me: [Corelight](https://github.com/corelight-chris), [Open Architects](https://github.com/oa-hobbs)
 
 **My last three blog posts:**
+- [Anatomy of an OT Attack](https://ascia.tech/blog/anatomy-of-an-ot-attack/)
 - [On Vivaldi](https://ascia.tech/blog/on-vivaldi/)
 - [Rootless Containers with Podman](https://ascia.tech/blog/rootless-containers-with-podman/)
-- [My Declining Reliance on Search](https://ascia.tech/blog/my-declining-reliance-on-search/)
       
 **Some neato gists:**
 - [Porta Pro EasyEffects](https://gist.github.com/cmhobbs/28f7a858017c1b00f290de582c206bd4)
